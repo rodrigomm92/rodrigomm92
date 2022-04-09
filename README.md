@@ -2,7 +2,7 @@
 
 - 📍 I currently live in Recife-PE, Brazil;
 - 👷 I'm an Electronic Engineer;
-- 💻 I'm a Data Sciente student.
+- 💻 I'm a Data Sciente Student.
 
 <div align="center">
   <a href="https://github.com/rodrigomm92">
