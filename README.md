@@ -1,5 +1,9 @@
 ### Hello! 👋
 
+- 📍 I currently live in Recife-PE, Brazil;
+- 👷 I'm an Electronic Engineer;
+- 💻 I'm a Data Sciente student.
+
 <div align="center">
   <a href="https://github.com/rodrigomm92">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rodrigomm92&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -36,4 +40,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🏭 I'm an Industrial Engineer
+- 💻 I’m currently learning Data Science
+- 📍 Sao Paulo, SP. Brazil.
 -->
