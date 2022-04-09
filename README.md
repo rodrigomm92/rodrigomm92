@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! I'm Rodrigo Maranhão 👋
 
 - 📍 I currently live in Recife-PE, Brazil;
 - 👷 I'm an Electronic Engineer;
