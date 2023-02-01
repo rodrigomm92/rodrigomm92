@@ -2,7 +2,7 @@
 
 - 📍 I currently live in Recife-PE, Brazil;
 - 👷 I'm an Electronic Engineer;
-- 💻 I'm a Data Sciente Student.
+- 💻 Working on Data Science @ Itaú Unibanco.
 
 
 - Link to my Portfolio: https://rodrigomm92.github.io/projects_portfolio/
